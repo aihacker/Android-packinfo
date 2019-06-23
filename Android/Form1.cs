@@ -50,7 +50,7 @@ namespace Android
             DoApkinfo();
         }
 
-        //处理APK、
+        //处理APK3
         private void DoApkinfo()
         {
             if(!apkpath.Text.Contains(".apk") || !File.Exists(apkpath.Text))
