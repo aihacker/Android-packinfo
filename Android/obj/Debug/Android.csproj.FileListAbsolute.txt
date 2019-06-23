@@ -1,0 +1,13 @@
+C:\Users\Loopg\documents\visual studio 2015\Projects\Android\Android\bin\Debug\Android-packinfo.exe.config
+C:\Users\Loopg\documents\visual studio 2015\Projects\Android\Android\bin\Debug\Android-packinfo.exe
+C:\Users\Loopg\documents\visual studio 2015\Projects\Android\Android\bin\Debug\Android-packinfo.pdb
+C:\Users\Loopg\documents\visual studio 2015\Projects\Android\Android\bin\Debug\CSkin.dll
+C:\Users\Loopg\documents\visual studio 2015\Projects\Android\Android\bin\Debug\DotNetZip.dll
+C:\Users\Loopg\documents\visual studio 2015\Projects\Android\Android\bin\Debug\DotNetZip.pdb
+C:\Users\Loopg\documents\visual studio 2015\Projects\Android\Android\bin\Debug\DotNetZip.xml
+C:\Users\Loopg\documents\visual studio 2015\Projects\Android\Android\obj\Debug\Android.csprojResolveAssemblyReference.cache
+C:\Users\Loopg\documents\visual studio 2015\Projects\Android\Android\obj\Debug\Android.Form1.resources
+C:\Users\Loopg\documents\visual studio 2015\Projects\Android\Android\obj\Debug\Android.Properties.Resources.resources
+C:\Users\Loopg\documents\visual studio 2015\Projects\Android\Android\obj\Debug\Android.csproj.GenerateResource.Cache
+C:\Users\Loopg\documents\visual studio 2015\Projects\Android\Android\obj\Debug\Android-packinfo.exe
+C:\Users\Loopg\documents\visual studio 2015\Projects\Android\Android\obj\Debug\Android-packinfo.pdb
